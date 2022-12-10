@@ -1,0 +1,15 @@
+C:\Users\ThinkPad\Geek\Recursion\63\bin\Debug\net6.0\63.exe
+C:\Users\ThinkPad\Geek\Recursion\63\bin\Debug\net6.0\63.deps.json
+C:\Users\ThinkPad\Geek\Recursion\63\bin\Debug\net6.0\63.runtimeconfig.json
+C:\Users\ThinkPad\Geek\Recursion\63\bin\Debug\net6.0\63.dll
+C:\Users\ThinkPad\Geek\Recursion\63\bin\Debug\net6.0\63.pdb
+C:\Users\ThinkPad\Geek\Recursion\63\obj\Debug\net6.0\63.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Geek\Recursion\63\obj\Debug\net6.0\63.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\Geek\Recursion\63\obj\Debug\net6.0\63.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\Geek\Recursion\63\obj\Debug\net6.0\63.AssemblyInfo.cs
+C:\Users\ThinkPad\Geek\Recursion\63\obj\Debug\net6.0\63.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Geek\Recursion\63\obj\Debug\net6.0\63.dll
+C:\Users\ThinkPad\Geek\Recursion\63\obj\Debug\net6.0\refint\63.dll
+C:\Users\ThinkPad\Geek\Recursion\63\obj\Debug\net6.0\63.pdb
+C:\Users\ThinkPad\Geek\Recursion\63\obj\Debug\net6.0\63.genruntimeconfig.cache
+C:\Users\ThinkPad\Geek\Recursion\63\obj\Debug\net6.0\ref\63.dll
